@@ -107,7 +107,3 @@ class _MainScreenState extends State<NavigationScreen> {
     );
   }
 }
-
-// Center(
-// child: _widgetOptions.elementAt(_selectedIndex),
-// ),
